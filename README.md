@@ -34,7 +34,7 @@
 
 ## ⭐주요 기능
 ```
-   1) 3-Tier 연동
+  1) 3-Tier 연동
    2) DB 이중화
    3) Rolling Update & Roll Back
    4) 홈페이지
