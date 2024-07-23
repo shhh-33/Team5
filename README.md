@@ -8,7 +8,7 @@ On-premise 환경에서 3-tier 웹 서비스 구축
 ## 🎈개발 환경
 
   ![Docker](https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 Ubuntu 20.04
 nginx:1.14
 TOMCAT_VERSION=9.0.71
