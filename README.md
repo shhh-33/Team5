@@ -6,7 +6,7 @@ On-premise 환경에서 3-tier 웹 서비스 구축
 
 
 ## 🎈개발 환경
-
+  <img src="https://img.shields.io/badge/Ubuntu 20.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 Ubuntu 20.04
