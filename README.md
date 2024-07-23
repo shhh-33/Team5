@@ -18,7 +18,7 @@ On-premise 환경에서 3-tier 웹 서비스 구축
    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   nginx:1.14
 JMeter 5.6.3
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 ## 🎈주요 기능
