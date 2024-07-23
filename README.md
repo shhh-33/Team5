@@ -23,7 +23,7 @@ JMeter 5.6.3
 >  3) Rolling Update & Roll Back
 >  4) 홈페이지
 
->      4.1) 회원가입
+>>      4.1) 회원가입
         4.2) 로그인
        
 
