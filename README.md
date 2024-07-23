@@ -32,7 +32,7 @@ On-premise 환경에서 3-tier 웹 서비스 구축
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 
-## 🎈주요 기능
+## ⭐주요 기능
 >>
 >>
    1) 3-Tier 연동
