@@ -30,9 +30,10 @@ On-premise 환경에서 3-tier 웹 서비스 구축
   <img src="https://img.shields.io/badge/Apache Jmeter 5.6.3-D22128?style=flat-square&logo=Apache JMeter&logoColor=white">
 
 ## 🛠️ 배포 툴
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat-square&logo=Argo&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+
 
 ## 🎈주요 기능
 >>
