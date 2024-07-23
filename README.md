@@ -17,7 +17,7 @@ On-premise 환경에서 3-tier 웹 서비스 구축
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Jsp-e76f00?style=flat-square&logo=Jsp&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx:1.14-009639?style=flat-square&logo=NGINX&logoColor=white">
   nginx:1.14
 JMeter 5.6.3
 
