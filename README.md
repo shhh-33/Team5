@@ -19,8 +19,6 @@ On-premise 환경에서 3-tier 웹 서비스 구축
   <img src="https://img.shields.io/badge/Jsp-e76f00?style=flat-square&logo=Jsp&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx 1.14-009639?style=flat-square&logo=NGINX&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Jmeter 5.6.3-D22128?style=flat-square&logo=Apache JMeter&logoColor=white">
-JMeter 5.6.3
-
 
 
 ## 🎈주요 기능
