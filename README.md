@@ -11,12 +11,11 @@ On-premise 환경에서 3-tier 웹 서비스 구축
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/apache tomcat 9.071-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/apache tomcat 9.0.71-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
-nginx:1.14
-TOMCAT_VERSION=9.0.71
-MariaDB
-
+  <"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  nginx:1.14
 JMeter 5.6.3
 
 
