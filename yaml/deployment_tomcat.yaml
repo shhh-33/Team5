@@ -29,7 +29,7 @@ spec:
             matchLabels:
               app: tomcat
       containers:
-      - image: chae45/tomcat:v1.0
+      - image: chae45/tomcat:v2.0
         name: tomcat
         ports:
         - containerPort: 8080
