@@ -8,11 +8,12 @@ On-premise 환경에서 3-tier 웹 서비스 구축
 ## 🎈개발 환경
 
   ![Docker](https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 Ubuntu 20.04
 nginx:1.14
 TOMCAT_VERSION=9.0.71
 MariaDB
-Kubernetes
+
 JMeter 5.6.3
 
 
@@ -23,8 +24,8 @@ JMeter 5.6.3
    2) DB 이중화
    3) Rolling Update & Roll Back
    4) 홈페이지
-    >   4.1) 회원가입
-    >   4.2) 로그인
+       4.1) 회원가입
+       4.2) 로그인
        
 
             
