@@ -11,7 +11,10 @@ On-premise 환경에서 3-tier 웹 서비스 구축
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
-
+3-tier
+<img src="https://img.shields.io/badge/Nginx 1.14-009639?style=flat-square&logo=NGINX&logoColor=white">
+<img src="https://img.shields.io/badge/apache tomcat 9.0.71-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
 
 ## 🎈개발 환경
   <img src="https://img.shields.io/badge/Ubuntu 20.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -19,12 +22,11 @@ On-premise 환경에서 3-tier 웹 서비스 구축
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/apache tomcat 9.0.71-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
   
   
   
-  <img src="https://img.shields.io/badge/Nginx 1.14-009639?style=flat-square&logo=NGINX&logoColor=white">
+  
+  
   <img src="https://img.shields.io/badge/Apache Jmeter 5.6.3-D22128?style=flat-square&logo=Apache JMeter&logoColor=white">
 
 ## 🛠️ 배포 툴
