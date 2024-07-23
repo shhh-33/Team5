@@ -5,21 +5,21 @@
 On-premise 환경에서 3-tier 웹 서비스 구축
 
 ## 📚 기술 스택
-웹 페이지   
+**웹 페이지**   
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Jsp-e76f00?style=flat-square&logo=Jsp&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
-3-tier   
+**3-tier**   
 <img src="https://img.shields.io/badge/Nginx 1.14-009639?style=flat-square&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat 9.0.71-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
 
-부하분산   
+**부하분산**   
 <img src="https://img.shields.io/badge/Apache Jmeter 5.6.3-D22128?style=flat-square&logo=Apache JMeter&logoColor=white">
 
-클라우드   
+**클라우드**   
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>  
 
 
