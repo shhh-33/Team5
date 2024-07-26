@@ -13,7 +13,7 @@
 
 **3-tier**   
 <img src="https://img.shields.io/badge/Nginx 1.14-009639?style=flat-square&logo=NGINX&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat 9.0.71-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/Apache tomcat 9.0.71-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
 
 **부하분산**   
