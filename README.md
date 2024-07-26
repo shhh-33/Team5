@@ -8,13 +8,13 @@
 **웹 페이지**   
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Jsp-e76f00?style=flat-square&logo=Jsp&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
 **3-tier**   
 <img src="https://img.shields.io/badge/Nginx 1.14-009639?style=flat-square&logo=NGINX&logoColor=white">
-<img src="https://img.shields.io/badge/Apache tomcat 9.0.71-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
+<img src="https://img.shields.io/badge/Apache Tomcat 9.0.71-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
 
 **부하분산**   
 <img src="https://img.shields.io/badge/Apache Jmeter 5.6.3-D22128?style=flat-square&logo=Apache JMeter&logoColor=white">
