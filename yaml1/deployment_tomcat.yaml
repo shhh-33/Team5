@@ -104,7 +104,7 @@ spec:
             memory: 250Mi
         livenessProbe:
           httpGet:
-            path: /
+            path: /login.jsp
             port: 8080
           initialDelaySeconds: 15
           periodSeconds: 20
@@ -163,7 +163,7 @@ spec:
             memory: 250Mi
         livenessProbe:
           httpGet:
-            path: /
+            path: /join.jsp
             port: 8080
           initialDelaySeconds: 15
           periodSeconds: 20
@@ -223,7 +223,7 @@ spec:
             memory: 250Mi
         livenessProbe:
           httpGet:
-            path: /
+            path: /menu.jsp
             port: 8080
           initialDelaySeconds: 15
           periodSeconds: 20
@@ -282,7 +282,7 @@ spec:
             memory: 250Mi
         livenessProbe:
           httpGet:
-            path: /
+            path: /mypage.jsp
             port: 8080
           initialDelaySeconds: 15
           periodSeconds: 20
