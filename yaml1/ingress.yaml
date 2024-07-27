@@ -15,28 +15,28 @@ spec:
             name: index-service
             port:
               number: 80
-      - path: /login
+      - path: /login.jsp
         pathType: Prefix
         backend:
           service:
             name: login-service
             port:
               number: 80
-      - path: /join
+      - path: /join.jsp
         pathType: Prefix
         backend:
           service:
             name: join-service
             port:
               number: 80
-      - path: /menu
+      - path: /menu.jsp
         pathType: Prefix
         backend:
           service:
             name: menu-service
             port:
               number: 80
-      - path: /mypage
+      - path: /mypage.jsp
         pathType: Prefix
         backend:
           service:
