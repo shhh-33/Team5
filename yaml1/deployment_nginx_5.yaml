@@ -5,7 +5,7 @@ metadata:
   annotations:
     kubernetes.io/change-cause: first_version
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: nginx
@@ -64,7 +64,7 @@ metadata:
   annotations:
     kubernetes.io/change-cause: first_version
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: nginx
@@ -124,7 +124,7 @@ metadata:
   annotations:
     kubernetes.io/change-cause: first_version
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: nginx
@@ -184,7 +184,7 @@ metadata:
   annotations:
     kubernetes.io/change-cause: first_version
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: nginx
@@ -244,7 +244,7 @@ metadata:
   annotations:
     kubernetes.io/change-cause: first_version
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: nginx
