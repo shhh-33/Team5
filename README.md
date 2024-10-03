@@ -52,8 +52,8 @@ Metal LB
     
     
 ## 🎈 참여 멤버
-     🚩 이도현(https://github.com/leedh971009)
-     🌪 이신혜(https://github.com/shhh-33) 
+     이도현(https://github.com/leedh971009)
+     이신혜(https://github.com/shhh-33) 
      조은채(https://github.com/chae45)
      이동준(https://github.com/ehddlf5709)
-     김희준
+     김희준(https://github.com/heejun-ii)
